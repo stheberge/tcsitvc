@@ -1,0 +1,10 @@
+OPEN source 0 0 60 66
+Source < attributes TOOLTIP on,TOOLTIP_FORMAT signed,TOOLTIP_MODE details,FREEZE off,MARKS off
+OPEN procedure 0 39 60 17
+Procedure < attributes VALUES on,TYPES off
+OPEN data 60 3 35 63
+Data < attributes SCOPE global,COMPLEMENT None,FORMAT Symb,MODE periodical,SORT NotSort,UPDATERATE 1,NAMEWIDTH 16
+bckcolor 50331647
+font 'Courier New' 9 BLACK
+AUTOSIZE on
+ACTIVATE "Procedure" "Source" "Data"
